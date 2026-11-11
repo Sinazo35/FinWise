@@ -68,9 +68,9 @@ Provides educational content covering:
 
 | Technology | Purpose |
 |---|---|
-| HTML5 | Website structure and content |
-| CSS3 | Styling, layout and responsive design |
-| JavaScript | Interactive functionality and application logic |
+| HTML | Website structure and content |
+Styling, layout and responsive design |
+ Interactive functionality and application logic |
 | Google Fonts | Typography |
 
 ## Project Structure
